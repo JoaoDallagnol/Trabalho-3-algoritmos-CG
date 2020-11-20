@@ -1,4 +1,4 @@
-# Trabalho-3-algoritmos-Computa-o-Gráfica
+# Trabalho-3-algoritmos-CG
 
 Nomes: João Vítor Dall'Agnol e Bruno Saldanha
 
